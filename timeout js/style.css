@@ -1,0 +1,11 @@
+*{
+    margin: 1px;
+    padding: 1px;
+    background-color: black;
+    color: white;
+}
+h1{
+    background: -webkit-linear-gradient( blue, purple);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
